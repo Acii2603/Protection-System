@@ -38,14 +38,14 @@ Cu o memorie flash de 32 KB, 2 KB SRAM și 1 KB EEPROM, placa operează la o fre
 
 ## III. Lista Componente Utilizate
 
-| Nr | Componenta            | Imagine             |
-|----|-----------------------|---------------------|
-| 1  | Placa Arduino UNO      | ![Placa Arduino UNO]() |
-| 2  | Afișaj LCD I2C         | ![Afișaj LCD I2C]()    |
-| 3  | Keypad 4x4             | ![Keypad 4x4]()       |
-| 4  | LED RGB                | ![LED RGB]()          |
-| 5  | Fire tip male to female| ![Fire tip male to female]() |
-| 6  | Cablu USB pentru Arduino| ![Cablu USB]()        |
+| Nr | Componenta            |
+|----|-----------------------|
+| 1  | Placa Arduino UNO      |
+| 2  | Afișaj LCD I2C         |
+| 3  | Keypad 4x4             |
+| 4  | LED RGB                |
+| 5  | Fire tip male to female|
+| 6  | Cablu USB pentru Arduino|
 
 ## IV. Diagrama Circuit
 ![image](https://github.com/user-attachments/assets/d40854e4-c667-4707-9ef5-288e38ec00fd)

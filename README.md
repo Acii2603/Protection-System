@@ -1,8 +1,7 @@
 # Sistem de Protecție – Afișaj LCD I2C – LED RGB – KeyPad 4x4
 
-## Autor
-Ionita Alexandru Andrei  
-322CA - 2024
+**Author**: Alexandru-Andrei Ionita    
+**Year**: 2023-2024 
 
 ## I. Descriere proiect
 
